@@ -1,4 +1,7 @@
 # hello-world
 just another repository
 
-no, not gonna write a bit about myself
+Uni of Queensland
+Mechanical Engineering Student
+
+Loves Coffee Guitar Nature and many more
